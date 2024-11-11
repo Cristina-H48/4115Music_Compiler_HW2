@@ -1,0 +1,12 @@
+title="Composition";
+composer="John Doe";
+instrument=instrument;
+bpm=Piano;
+play (
+    Do4# quarter,
+    repeat(Do4# quarter),
+    Do3- sixteenth,
+    repeat(Do4# quarter,Do4# whole)
+);
+end
+

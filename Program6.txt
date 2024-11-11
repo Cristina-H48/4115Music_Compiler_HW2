@@ -1,0 +1,4 @@
+instrument piano;
+bpm 120;
+play Do5$;
+end
