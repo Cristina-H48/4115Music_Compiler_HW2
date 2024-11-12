@@ -340,8 +340,6 @@ repeat(Do4# quarter,repeat(Do4# quarter,repeat(Do4# quarter)))
 end
 ```
 
-**Description**: This input tests the lexer’s handling of unconventional inputs and syntax errors.
-
 **Expected Output**:
 ```
 $Program
