@@ -103,7 +103,7 @@ Our custom language is designed for composing music and issuing playback command
    A complete program consists of a header chunk, followed by a track section, and ending with the `end` keyword. `end` is a terminal
 
 2. **H** -> **E; H** | ε  
-   The header section consists of list of expressions (e.g. assignment`A=V`) followed by a semicolon, which are recursively followed by zero or more expressions.
+   The header chunk can be empty or consists of list of expressions (e.g. assignment`A=V`) followed by a semicolon, which are recursively followed by zero or more expressions.
 
 3. **E** -> **A=V**  
    Each expression can be an assignment, where a value is assigned to a specific attribute. This structure allows for future functionality expansions.
