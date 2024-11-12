@@ -16,15 +16,11 @@
    - [Prerequisites](#prerequisites)
    - [Execution Steps](#execution-steps)
 6. [Detailed Description of Each Step](#detailed-description-of-each-step)
-   - [Scanner Algorithm](#scanner-algorithm)
+   - [Lexer Algorithm](#lexer-algorithm)
+   - [Parser Algorithm](#parser-algorithm)
+   - [AST printer](#ast-printer)
    - [Error Handling](#error-handling)
 7. [Sample Input Programs and Expected Outputs](#sample-input-programs-and-expected-outputs)
-   - [Program 1](#program-1)
-   - [Program 2](#program-2)
-   - [Program 3](#program-3)
-   - [Program 4](#program-4)
-   - [Program 5](#program-5)
-8. [Conclusion](#conclusion)
 
 ---
 
