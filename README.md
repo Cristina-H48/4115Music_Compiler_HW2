@@ -1,7 +1,7 @@
 ## **Team Members**
 
 - **Name**: Huilin Tai, Huixuan Huang
-- **UNI**: HT2666, HH3101
+- **UNI**: ht2666, hh3101
 
 ---
 
