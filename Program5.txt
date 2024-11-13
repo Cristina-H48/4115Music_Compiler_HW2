@@ -1,2 +1,4 @@
-title "Symphony No. 5
-composer "Beethoven";
+title ="Symphony No. 5";
+composer ="Beethoven";
+play (Do4_ half,);
+end
