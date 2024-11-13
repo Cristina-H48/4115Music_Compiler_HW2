@@ -424,3 +424,17 @@ end
 ```
 Parsing error: Syntax error: Expected a music note or function like 'repeat'
 ```
+### **Program 6: Missing end token**
+
+**Content**:
+
+```plaintext
+title ="Symphony No. 5";
+composer ="Beethoven";
+play (Do4_ half);
+```
+
+**Expected Output**:
+```
+Parsing error: Unexpected end of input
+```
