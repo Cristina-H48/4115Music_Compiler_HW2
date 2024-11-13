@@ -1,12 +1,6 @@
-title="Composition";
-composer="John Doe";
-instrument=instrument;
-bpm=Piano;
-play (
-    Do4# quarter,
-    repeat(Do4# quarter),
-    Do3- sixteenth,
-    repeat(Do4# quarter,Do4# whole)
-);
+title="mymusic";
+composer="someone";
+instrument=Piano;
+bpm=120;
+play (Do4# quarter, Re4- half, repeat(Mi4- whole, Fa4# half));
 end
-
