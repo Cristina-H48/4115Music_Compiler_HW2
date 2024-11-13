@@ -21,6 +21,7 @@
    - [AST printer](#ast-printer)
    - [Error Handling](#error-handling)
 7. [Sample Input Programs and Expected Outputs](#sample-input-programs-and-expected-outputs)
+8. [Video](https://drive.google.com/file/d/1WBkEJNz-W3fPyRLimmM467NunAtShImf/view?usp=sharing)
 
 ---
 
