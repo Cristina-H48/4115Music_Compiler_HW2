@@ -1,4 +1,3 @@
-instrument piano;
-bpm 120;
-play Do5$;
-end
+title ="Symphony No. 5";
+composer ="Beethoven";
+play (Do4_ half);
