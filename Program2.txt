@@ -1,2 +1,2 @@
-play (Do4# quarter, Re4_ half);
-end
+play (Mi5_ whole, Fa5_ half, Mi5_eighth, Re5_ sixteenth, Do5_ whole, Re5_ half, Mi5_quarter);
+end          
